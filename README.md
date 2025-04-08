@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Java | JavaScript | CSS | HTML | Full-Stack 
+
+DEV em formação. 
+Sou estudante da Faculdade de Sistemas de Informação (UFBRA) e, paralelamente, estou realizando o curso de Programação Full Stack pelo SESI SENAI
