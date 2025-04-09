@@ -1,13 +1,8 @@
-[![Follow me](https://img.shields.io/github/followers/alexritzmann?label=Seguir%20%40alexritzmann&style=social)](https://github.com/alexritzmann)
-
-➡️ **[Siga-me no GitHub](https://github.com/alexritzmann)** para projetos e colaborações! ✨
-
-[![Follow](https://img.shields.io/badge/Me_siga_no_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexritzmann)
-
 # Olá, eu sou o Alex! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexritzmann/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexritzmann@gmail.com)
+[![Follow me](https://img.shields.io/github/followers/alexritzmann?label=Seguir%20%40alexritzmann&style=social)](https://github.com/alexritzmann)
 
 ## 🚀 Sobre Mim
 Estou em transição de carreira para a área de Tecnologia da Informação.
