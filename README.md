@@ -2,6 +2,8 @@
 
 ➡️ **[Siga-me no GitHub](https://github.com/alexritzmann)** para projetos e colaborações! ✨
 
+[![Follow](https://img.shields.io/badge/Me_siga_no_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexritzmann)
+
 # Olá, eu sou o Alex! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexritzmann/)
