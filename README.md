@@ -36,13 +36,11 @@ Ficou, então, uma semente que agora em 2024 voltou a ter força.
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
-
-<img src="https://skillicons.dev/icons?i=java,js,css,html,postgres,mysql,spring" />
 
 ### Bancos de Dados
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 ### Ferramentas e Plataformas
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
@@ -51,37 +49,35 @@ Ficou, então, uma semente que agora em 2024 voltou a ter força.
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
+### Arquitetura e Padrões
+[![REST](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=rest&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/REST)
+
 ---
 
 ## 🌟 Projetos em Destaque
 
-1. **[Chatbot com IA](https://github.com/seu-user/projeto-chatbot)**  
-   Chatbot inteligente para atendimento ao cliente usando NLP e Python.
-
-2. **[Sistema de Recomendação](https://github.com/seu-user/sistema-recomendacao)**  
-   Algoritmo de recomendação personalizada baseado em machine learning.
+1. **[Mapeamento de áreas Verdes](https://github.com/alexritzmann/exercicios_curso_futuro_dev/tree/main/MapeamentoAreasVerdesJoinville)**  
+   Mini projeto no curso de Desenvolvimento WEB - SESI/SENAI para mapear áreas verdes de uma cidade. 
 
 ---
 
 ## 🏆 Conquistas e Certificações
-
-- **AWS Certified Cloud Practitioner** (2023)  
-- **1º Lugar no Hackathon TechChallenge 2022**  
-- [Google Data Analytics Professional Certificate](https://coursera.org/share/SEU_CERTIFICADO)
+  
+- **Certificado final em Programação Básica em Back-End** (2025)
+- **Certificado final em Programação Básica em Front-End** (2025)
+- **Certificado final em Computação em Nuvem** (2025)
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-[![Seu Status](https://github-readme-stats.vercel.app/api?username=seu-user&show_icons=true&theme=dracula)](https://github.com/seu-user)
+[![Seu Status](https://github-readme-stats.vercel.app/api?username=seu-user&show_icons=true&theme=dracula)](https://github.com/alexritzmann)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-user&layout=compact&theme=dracula)](https://github.com/seu-user)
-
-![Snake Animation](https://github.com/seu-user/seu-user/blob/output/github-contribution-grid-snake.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-user&layout=compact&theme=dracula)](https://github.com/alexritzmann)
 
 ---
 
 ## 📫 Contato
 
-- ✉️ Email: [seu-email@provedor.com](mailto:seu-email@provedor.com)
-- 💼 LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+- ✉️ Email: [alexritzmann@gmail.com](mailto:alexritzmann@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/alexritzmann](https://linkedin.com/in/alexritzmann)
