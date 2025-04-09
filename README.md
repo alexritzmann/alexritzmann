@@ -1,17 +1,4 @@
-<!--
-**alexritzmann/alexritzmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Olá, eu sou o Alex! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexritzmann/)
@@ -20,12 +7,8 @@ Here are some ideas to get you started:
 ## 🚀 Sobre Mim
 Estou em transição de carreira para a área de Tecnologia da Informação.
 
-Recentemente, concluí o curso de formação básica em front-end, back-end e computação na nuvem pelo SESI SENAI (com certificados). Nessas formações, adquiri conhecimentos técnicos em HTML, CSS e JavaScript, com foco no desenvolvimento de soluções web.
-
-Atualmente, curso Bacharelado em Sistemas de Informação pela UFBRA e também estou cursando FuturoDEV pelo SESI SENAI, buscando me especializar ainda mais em back-end, front-end e computação na nuvem.
-
-Em 2004 iniciei o curso de Bacharel em Ciência da Computação na UDESC. No entanto em 2006, por motivos particulares tive que abandonar essa faculdade.
-Ficou, então, uma semente que agora em 2024 voltou a ter força.
+Recentemente, concluí o curso de formação básica em front-end, back-end e computação na nuvem pelo SESI SENAI.
+Atualmente estou cursando Bacharelado em Sistemas de Informação pela UFBRA e, paralelamente, FuturoDEV pelo SESI SENAI, buscando me especializar ainda mais em back-end, front-end e computação na nuvem.
 
 ---
 
