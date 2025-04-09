@@ -62,8 +62,8 @@ Atualmente estou cursando Bacharelado em Sistemas de Informação pela UFBRA e, 
 
 ## 📱 Redes Sociais
 
-📸 [INSTAGRAM](https://www.instagram.com/alextattoo.rtg/)  
-👍 [FACEBOOK](https://www.facebook.com/alextattoo.rtg)
+📸 [![Instagram](https://www.instagram.com/alextattoo.rtg/)]
+👍 [![Facebook](https://www.facebook.com/alextattoo.rtg)]
 
 ---
 
