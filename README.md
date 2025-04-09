@@ -1,3 +1,6 @@
+[![Follow me](https://img.shields.io/github/followers/alexritzmann?label=Seguir%20%40alexritzmann&style=social)](https://github.com/alexritzmann)
+
+
 
 # Olá, eu sou o Alex! 👋
 
