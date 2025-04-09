@@ -46,9 +46,9 @@ Atualmente estou cursando Bacharelado em Sistemas de Informação pela UFBRA e, 
 
 ## 🏆 Conquistas e Certificações
   
-- **Certificado em Programação Básica em Back-End** (2025)
-- **Certificado em Programação Básica em Front-End** (2025)
-- **Certificado em Computação em Nuvem** (2025)
+- **Certificado em Programação Básica em Back-End** (2024/2025)
+- **Certificado em Programação Básica em Front-End** (2024/2025)
+- **Certificado em Computação em Nuvem** (2024/2025)
 
 ---
 
