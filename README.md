@@ -63,17 +63,17 @@ Ficou, então, uma semente que agora em 2024 voltou a ter força.
 
 ## 🏆 Conquistas e Certificações
   
-- **Certificado final em Programação Básica em Back-End** (2025)
-- **Certificado final em Programação Básica em Front-End** (2025)
-- **Certificado final em Computação em Nuvem** (2025)
+- **Certificado em Programação Básica em Back-End** (2025)
+- **Certificado em Programação Básica em Front-End** (2025)
+- **Certificado em Computação em Nuvem** (2025)
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-[![Seu Status](https://github-readme-stats.vercel.app/api?username=seu-user&show_icons=true&theme=dracula)](https://github.com/alexritzmann)
+[![Seu Status](https://github-readme-stats.vercel.app/api?username=alexritzmann&show_icons=true&theme=dracula)](https://github.com/alexritzmann)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-user&layout=compact&theme=dracula)](https://github.com/alexritzmann)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexritzmann&layout=compact&theme=dracula)](https://github.com/alexritzmann)
 
 ---
 
