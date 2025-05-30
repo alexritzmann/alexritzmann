@@ -7,8 +7,8 @@
 ## 🚀 Sobre Mim
 Estou em transição de carreira para a área de Tecnologia da Informação.
 
-Recentemente, concluí o curso de formação básica em front-end, back-end e computação na nuvem pelo SESI SENAI.
 Atualmente estou cursando Bacharelado em Sistemas de Informação pela UFBRA e, paralelamente, FuturoDEV pelo SESI SENAI, buscando me especializar ainda mais em back-end, front-end e computação na nuvem.
+Recentemente, concluí o curso de formação básica em front-end, back-end e computação na nuvem pelo SESI SENAI.
 
 ---
 
@@ -40,7 +40,10 @@ Atualmente estou cursando Bacharelado em Sistemas de Informação pela UFBRA e, 
 ## 🌟 Projetos em Destaque
 
 1. **[Mapeamento de áreas Verdes](https://github.com/alexritzmann/exercicios_curso_futuro_dev/tree/main/MapeamentoAreasVerdesJoinville)**  
-   Mini projeto no curso de Desenvolvimento WEB - SESI/SENAI para mapear áreas verdes de uma cidade. 
+   Mini projeto no curso de Desenvolvimento WEB - SESI/SENAI para mapear áreas verdes de uma cidade.
+
+1. **[ReciclaVille]([https://github.com/alexritzmann/exercicios_curso_futuro_dev/tree/main/MapeamentoAreasVerdesJoinville])**  
+   Projeto ReciclaVille com microserviços do proejto original (ReciclaVille). Em Desenvolvimento.
 
 ---
 
