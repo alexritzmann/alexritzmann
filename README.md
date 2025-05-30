@@ -42,7 +42,7 @@ Recentemente, concluí o curso de formação básica em front-end, back-end e co
 1. **[Mapeamento de áreas Verdes](https://github.com/alexritzmann/exercicios_curso_futuro_dev/tree/main/MapeamentoAreasVerdesJoinville)**  
    Mini projeto no curso de Desenvolvimento WEB - SESI/SENAI para mapear áreas verdes de uma cidade.
 
-1. **[ReciclaVille]([https://github.com/alexritzmann/exercicios_curso_futuro_dev/tree/main/MapeamentoAreasVerdesJoinville])**  
+2. **[ReciclaVille com MicroServiços](https://github.com/alexritzmann/ReciclaVilleMicroServices)**                               
    Projeto ReciclaVille com microserviços do proejto original (ReciclaVille). Em Desenvolvimento.
 
 ---
